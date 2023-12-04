@@ -39,3 +39,17 @@
         01F_SER SER only model 的結果
         01F_test 是 final model 包含著4個loss speech decomposition, multitasklearning 的大集合
         tmp_01F 是 只有 SER 跟 ASR 的結果
+
+## Reference
+This package provides training code for the audio-visual emotion recognition paper. If you use this codebase in your experiments please cite: 
+
+```
+@inproceedings{hsu2023speech,
+  title={Speech Emotion Recognition using Decomposed Speech via Multi-task Learning},
+  author={Hsu, Jia Hao and Wu, Chung Hsien and Wei, Yu Hung},
+  booktitle={Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH},
+  volume={2023},
+  pages={4553--4557},
+  year={2023}
+}
+```
