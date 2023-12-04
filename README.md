@@ -41,7 +41,7 @@
         tmp_01F 是 只有 SER 跟 ASR 的結果
 
 ## Reference
-This package provides training code for the audio-visual emotion recognition paper. If you use this codebase in your experiments please cite: 
+This package provides training code for the speech emotion recognition paper. If you use this codebase in your experiments please cite: 
 
 ```
 @inproceedings{hsu2023speech,
